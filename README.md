@@ -10,5 +10,12 @@
   Привет, я Олеся
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=790b7611r2ak1483iwl9vvorr6zucalgivz7m5e4mgqdqch0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
 </h1>  
-   
+   :fox_face: Обо мне: Я - тестировщик.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
