@@ -18,4 +18,11 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
+- :mailbox: Я всегда на связи в Телеграме: [![Telegram Badge](https://img.shields.io/badge/Olesya1812-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Olesya1812)
+
+:hammer_and_wrench: Languages and Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"  alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  alt="Git" width="40" height="40"/>&nbsp;
